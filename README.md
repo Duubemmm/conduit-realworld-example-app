@@ -20,7 +20,7 @@ A fully containerized fullstack application based on the [RealWorld](https://rea
 
 ---
 
-## Architecture┌─────────────────────────────────────────────────────┐
+## Architecture
 
 │                  Local Development                  │
 
